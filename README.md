@@ -144,8 +144,8 @@ Ergebnis: statischer Auslastungsgrad **47 %**, zyklischer Auslastungsgrad **≈ 
 
 ## Lizenz
 
-MIT License — frei verwendbar und erweiterbar.
-
+MIT [LICENSE](https://github.com/noeljoan/weight-and-balance/blob/main/LICENSE) — frei verwendbar und erweiterbar.
+ 
 ---
 
 *Erstellt mit React + Vite · Berechnung nach FKM-Richtlinie (6. Auflage)*
