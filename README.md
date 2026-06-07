@@ -138,7 +138,7 @@ Die Standardwerte entsprechen dem Beispiel **6.1 „Achse mit Absatz"** aus der 
 | Sicherheit jm / jD | 1,75 / 1,2 |
 
 Ergebnis: statischer Auslastungsgrad **47 %**, zyklischer Auslastungsgrad **≈ 102 %** (Nachweis annähernd erbracht).
-
+![Bericht/Report](export.pdf)
 ---
 
 ## Lizenz
