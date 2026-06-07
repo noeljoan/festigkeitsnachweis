@@ -15,9 +15,6 @@ Interaktive Web-App zur Berechnung des statischen Festigkeitsnachweises und Daue
 - [Funktionsumfang](#funktionsumfang)
 - [Berechnungsgrundlagen](#berechnungsgrundlagen)
 - [Werkstoffvorauswahl](#werkstoffvorauswahl)
-- [Installation](#installation)
-- [Deployment auf GitHub Pages](#deployment-auf-github-pages)
-- [Projektstruktur](#projektstruktur)
 
 ---
 
@@ -74,50 +71,6 @@ npm run dev
 ```
 
 Öffne anschließend [http://localhost:5173](http://localhost:5173) im Browser.
-
-### Voraussetzungen
-
-- Node.js ≥ 18
-- npm ≥ 9
-
----
-
-## Deployment auf GitHub Pages
-
-```bash
-npm run deploy
-```
-
-Dieser Befehl baut die App (`vite build`) und veröffentlicht den `dist`-Ordner auf dem Branch `gh-pages`.
-
-Einmalige Einrichtung in **GitHub → Settings → Pages**:
-
-- Source: `Deploy from a branch`
-- Branch: `gh-pages` / `/ (root)`
-
-> **Hinweis:** In `vite.config.js` muss `base` auf den Repo-Namen gesetzt sein:
-> ```js
-> export default defineConfig({
->   base: '/festigkeitsnachweis-fkm/',
->   plugins: [react()],
-> })
-> ```
-
----
-
-## Projektstruktur
-
-```
-festigkeitsnachweis-fkm/
-├── src/
-│   ├── App.jsx          # Hauptkomponente (Berechnung + GUI)
-│   └── main.jsx         # React-Einstiegspunkt
-├── public/
-├── index.html
-├── vite.config.js
-├── package.json
-└── README.md
-```
 
 ---
 
