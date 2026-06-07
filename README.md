@@ -61,19 +61,6 @@ Benutzerdefinierte Werkstoffkennwerte sind ebenfalls eingebbar.
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/noeljoan/festigkeitsnachweis-fkm.git
-cd festigkeitsnachweis-fkm
-npm install
-npm run dev
-```
-
-Öffne anschließend [http://localhost:5173](http://localhost:5173) im Browser.
-
----
-
 ## Anwendungsbeispiel
 
 Die Standardwerte entsprechen dem Beispiel **6.1 „Achse mit Absatz"** aus der FKM-Richtlinie:
