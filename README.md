@@ -2,7 +2,7 @@
 
 Interaktive Web-App zur Berechnung des statischen Festigkeitsnachweises und Dauerfestigkeitsnachweises für stabförmige Bauteile (Achsen/Wellen mit Absatz) nach der **FKM-Richtlinie** und **DIN EN 10083-1**.
 
-🔗 **Live-Demo:** [https://noeljoan.github.io/festigkeitsnachweis-fkm/)
+🔗 **Live-Demo:** [https://noeljoan.github.io/festigkeitsnachweis/)
 
 ---
 
