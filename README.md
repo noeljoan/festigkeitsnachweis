@@ -6,6 +6,10 @@ Interaktive Web-App zur Berechnung des statischen Festigkeitsnachweises und Daue
 
 ---
 
+## Screenshot
+
+![Dashboard](screenshot.png)
+
 ## Inhalt
 
 - [Funktionsumfang](#funktionsumfang)
@@ -120,6 +124,7 @@ festigkeitsnachweis-fkm/
 ## Anwendungsbeispiel
 
 Die Standardwerte entsprechen dem Beispiel **6.1 „Achse mit Absatz"** aus der FKM-Richtlinie:
+![Dashboard](geometrie.png)
 
 | Parameter | Wert |
 |---|---|
