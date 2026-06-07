@@ -124,6 +124,7 @@ festigkeitsnachweis-fkm/
 ## Anwendungsbeispiel
 
 Die Standardwerte entsprechen dem Beispiel **6.1 „Achse mit Absatz"** aus der FKM-Richtlinie:
+![Dashboard](Anwendungsbeispiel.pdf)
 ![Dashboard](geometrie.png)
 
 | Parameter | Wert |
