@@ -148,4 +148,4 @@ MIT [LICENSE](https://github.com/noeljoan/weight-and-balance/blob/main/LICENSE) 
  
 ---
 
-*Erstellt mit React + Vite · Berechnung nach FKM-Richtlinie (6. Auflage)*
+* Berechnung nach FKM-Richtlinie (6. Auflage)*
